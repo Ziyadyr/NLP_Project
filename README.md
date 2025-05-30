@@ -33,7 +33,7 @@ Datasets library by Hugging Face
 evaluate library by Hugging Face
 
 ## Installation
-git clone https://github.com/Ziyadyr/NLP_Project.git
+git clone https://github.com/Ziyadyr/NLP_Project.git <br>
 cd NLP_Project
 
 ## References
